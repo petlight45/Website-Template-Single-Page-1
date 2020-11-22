@@ -1,0 +1,1 @@
+A single page website template
